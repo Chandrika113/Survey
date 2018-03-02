@@ -1,0 +1,2 @@
+SELECT * FROM sys.tables  
+WHERE object_id = 1973582069;  
